@@ -1,4 +1,5 @@
 Step 1: Choose the store location
 Step 2: Customize your delicious pizza
 Step 3: Order
+    3.1: Don't forget to tip your delivery guy
 Step 4: Enjoy!!
